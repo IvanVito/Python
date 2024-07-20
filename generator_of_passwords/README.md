@@ -46,7 +46,7 @@ python generator_of_paswords.py
 
 Пароли:
 !Q#2$a@fB3
-aB!$1D2&cE
+aB!$9D2&cE
 gH^3*b5@K&
 ...
 
