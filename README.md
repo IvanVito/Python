@@ -4,7 +4,7 @@
 
 ## Проекты
 
-### 1. [Конвертер систем счисления (calculator_of_number_systems)](https://github.com/yourusername/calculator_of_number_systems)
+### 1. [Конвертер систем счисления (calculator_of_number_systems)](https://github.com/IvanVito/Python/tree/main/calculator_of_number_systems)
 
 Программа для преобразования чисел между системами счисления с основанием от 2 до 16.
 
